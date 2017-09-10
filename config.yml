@@ -1,0 +1,11 @@
+:account:
+  - put_you_account put_here_you_active_wif
+ 
+:amount: 0.001 SBD
+
+:memo:
+  Hello, how are you?
+
+:chain_options:
+  :chain: steem
+  :url: https://steemd.steemit.com
